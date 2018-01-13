@@ -6,6 +6,15 @@ spring:
       url: jdbc:mysql://127.0.0.1:3366/sell?charsetEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
-
+  jackson:
+    default-property-inclusion: non_null
 server:
   context-path: /sell
+
+wechat:
+  mpAppId:
+  mpAppSecret:
+  mchId:
+  mchKey:
+  keyPath:
+  notifyUrl: http://xxxx/sell/pay/notify
