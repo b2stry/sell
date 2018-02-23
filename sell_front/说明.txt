@@ -1,0 +1,11 @@
+未编译的前端代码
+
+运行方式
+
+需安装node和npm 
+进入文件夹目录
+1  npm install 
+2  npm run dev
+
+浏览器打开  localhost  
+
