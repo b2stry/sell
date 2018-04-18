@@ -1,5 +1,5 @@
 # sell
-慕课网springboot企业微信点餐系统代码<br>
+慕课网springboot企业微信点餐系统<br>
 课程地址：https://coding.imooc.com/class/117.html
 
 ## API
